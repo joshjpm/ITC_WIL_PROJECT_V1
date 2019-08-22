@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>158003633462-1igmei4riaqj49c50dr260cleh78u5sh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.158003633462-1igmei4riaqj49c50dr260cleh78u5sh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCFO3QflN-xl0bEPRZ_CQf5I_-BA1KgAkw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>158003633462</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.JoshuaMacGuinness.ITC-WIL-Project</string>
+	<key>PROJECT_ID</key>
+	<string>itcwilproject1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>itcwilproject1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:158003633462:ios:52fb45121c8ce440</string>
+	<key>DATABASE_URL</key>
+	<string>https://itcwilproject1.firebaseio.com</string>
+</dict>
+</plist>
