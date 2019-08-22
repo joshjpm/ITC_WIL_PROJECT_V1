@@ -137,6 +137,9 @@
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="20"/>
                                 <state key="normal" title="Sign Up User"/>
+                                <connections>
+                                    <action selector="onSignUpTapped:" destination="COW-US-Zmj" eventType="touchUpInside" id="06F-6g-ag5"/>
+                                </connections>
                             </button>
                         </subviews>
                         <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -147,6 +150,7 @@
                         <outlet property="passwordTF" destination="yJq-7z-dmK" id="qKk-Zb-otK"/>
                         <outlet property="usernameTF" destination="yx2-N4-ZC5" id="Inl-G5-yF3"/>
                         <segue destination="nYf-YG-U4W" kind="show" identifier="signedUp" id="ake-5u-QHd"/>
+                        <segue destination="Gmy-dU-t5Y" kind="show" identifier="returnHome" id="Bms-Xg-Ap3"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="OOT-ho-uUA" userLabel="First Responder" sceneMemberID="firstResponder"/>
@@ -611,5 +615,6 @@
     </scenes>
     <inferredMetricsTieBreakers>
         <segue reference="ake-5u-QHd"/>
+        <segue reference="Bms-Xg-Ap3"/>
     </inferredMetricsTieBreakers>
 </document>
